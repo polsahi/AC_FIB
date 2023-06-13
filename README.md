@@ -5,3 +5,5 @@
 Curs 2022-2023 Q2
 
 Company de laboratori @Catafal
+
+Nota global Lab: 9
